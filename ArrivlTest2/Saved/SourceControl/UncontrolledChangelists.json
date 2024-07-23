@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/ArrivlTest2/Content/Blueprints/bp_UselessFactUI.uasset",
+				"D:/Unreal Projects/ArrivlTest2/Content/TestLevel.umap",
+				"D:/Unreal Projects/ArrivlTest2/Content/UITest.umap",
+				"D:/Unreal Projects/ArrivlTest2/Content/Main.umap",
+				"D:/Unreal Projects/ArrivlTest2/Content/Main_BuiltData.uasset",
+				"D:/Unreal Projects/ArrivlTest2/Content/BlankDefault/Levels/Thumbnails/Thumbnail_Empty.uasset",
+				"D:/Unreal Projects/ArrivlTest2/Content/BlankDefault/Levels/Blank_Empty.umap"
+			]
+		}
+	]
+}
